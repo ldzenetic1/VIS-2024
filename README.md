@@ -8,4 +8,4 @@ Projekt za vizuelizaciju podataka.
 - slike
 
 ## Opis
-Ovaj projekat sadrži analizu podataka koristeći Python i Jupyter Notebook.
+Ovaj projekat sadrži analizu podataka koristeći Python i Jupyter Notebook. Rezultati se nalaze na dva zasebna branch-a.
